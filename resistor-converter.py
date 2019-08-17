@@ -2,6 +2,13 @@
 # 1. Choose by 4 color bands (tell me a value)
 # 2. Choose by value (tell me colors)
 
+# TODO:
+# make it easier to read the ohm value. for example:
+#    300000000 --> 300,000,000 ohms.
+# or 300000000 --> 300M ohms
+# currently the value is printed as: 300000000.0
+
+
 from os import system
 import re
 
