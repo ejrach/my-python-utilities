@@ -19,6 +19,9 @@ Y_AXIS_DATA_COLUMN = "Engineering"
 df = pandas.read_csv(CSV_INPUT)
 x = df[X_AXIS_DATA_COLUMN]
 y = df[Y_AXIS_DATA_COLUMN]
+# data is read in like this, as a list...
+# x=[1,2,3,4,5]
+# y=[6,7,8,9,10]
 
 # prepare the output file
 output_file(HTML_OUTPUT)
