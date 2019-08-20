@@ -20,3 +20,10 @@ A Python script which opens an excel file and directly modifies it
 ##################################################################
 
 Additional details here...
+
+##################################################################
+# Project: Python Modularity
+Simple Python script modularity
+##################################################################
+
+Additional details here...
