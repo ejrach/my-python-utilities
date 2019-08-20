@@ -1,5 +1,5 @@
 # This script uses Pandas and Bokeh to provide a scatter plot based off large amounts of data.
-# Data is read in through a CSV file and plots X vs Y based off column titles.
+# Data is read in through an xlsx file and plots X vs Y based off column titles.
 # There is some math performed prior to plotting.
 #
 # To install Pandas:    $ pip3 install pandas
